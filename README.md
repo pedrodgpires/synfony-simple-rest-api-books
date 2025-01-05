@@ -11,12 +11,12 @@ This project is a simple REST API for managing books using Symfony, a PHP framew
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository.
 2. Install dependencies:
     ```sh
     composer install
     ```
-3. Set up the environment variables:
+3. Set up the environment variables (if needed).
 
 4. Create the database and run migrations:
     ```sh
